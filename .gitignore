@@ -1,0 +1,12 @@
+# source documents and generated PDFs are test material, not project files
+*.docx
+*.doc
+*.rtf
+*.odt
+*.pdf
+pdf/
+*.txt
+!requirements.txt
+
+__pycache__/
+*.pyc
